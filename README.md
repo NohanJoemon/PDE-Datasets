@@ -3,7 +3,7 @@ This repository contains u,x,t datasets for 4 different Partial Differential Equ
 
 ## Folders
 
-### [u,x,t](https://github.com/NohanJoemon/PDE-Datasets/tree/main/u%2Cx%2C)
+### [u,x,t](https://github.com/NohanJoemon/PDE-Datasets/tree/main/u%2Cx%2Ct)
 This folder contains u,x,t values for different equations and different SNRs. 
 
 
